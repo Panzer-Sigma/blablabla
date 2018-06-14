@@ -1,0 +1,16 @@
+{
+  "name": "gemigemidao",
+  "version": "1.0.0",
+  "main": "uoh.js",
+  "scripts": {
+    "start": "node uoh.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
